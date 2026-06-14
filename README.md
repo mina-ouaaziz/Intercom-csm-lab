@@ -63,3 +63,10 @@ Création d'un parcours d'onboarding en 3 étapes (Welcome / Your Dashboard / Ac
 - Création et structuration de contenu de Help Center
 - Lecture et interprétation de KPIs de support client
 - Conception d'un parcours d'onboarding utilisateur
+  
+- ## Auteure
+
+## Auteure
+
+**Mina OUAAZIZ** — Technicienne Supérieure Systèmes et Réseaux  
+À la recherche de rôles de Customer Success Manager / Customer Care en SaaS, avec plusieurs années d'expérience dans l'accompagnement client en secteur médico-social et auprès d'entreprises du BTP.
