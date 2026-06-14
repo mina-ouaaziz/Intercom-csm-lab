@@ -13,7 +13,7 @@ Intercom positionne son produit autour d'un support "AI-first" : channels, agent
 
 Toutes les conversations multi-canaux (Messenger, Email, WhatsApp, téléphone) arrivent dans une interface unique. C'est le point d'entrée qui permet à une équipe CSM de ne rien manquer quel que soit le canal utilisé par le client.
 
-## 2. Fin AI Agent — les 3 piliers pour l'entraîner
+## 2. Fin AI Agent, les 3 piliers pour l'entraîner
 
 Avant de configurer un workflow, j'ai exploré la logique d'entraînement de Fin, l'agent IA :
 
@@ -29,7 +29,7 @@ J'ai construit un workflow simple dans Fin Studio : message d'accueil → "Let F
 
 J'ai créé une collection et publié un article ("Comment contacter le support ?") qui alimente directement Fin, illustrant le lien direct entre documentation et performance de l'IA.
 
-## 4. Reports — AI & Automation
+## 4. Reports, AI & Automation
 
 <img width="1522" height="893" alt="Image" src="https://github.com/user-attachments/assets/a964ba75-3e60-406f-91d5-db07023b1fd7" />
 
@@ -44,13 +44,13 @@ Exploration des métriques clés pour mesurer la performance du support :
 
 Ces métriques permettent de savoir si Fin performe correctement ou si la base de connaissances a besoin d'être enrichie.
 
-## 5. Outbound — Engagement proactif
+## 5. Outbound, Engagement proactif
 
 <img width="1523" height="824" alt="Image" src="https://github.com/user-attachments/assets/0630c2d4-0147-4c39-bebd-b00f7f64468b" />
 
 Exploration des messages sortants (chat, email, product tour) pour engager proactivement les utilisateurs, en complément du support réactif.
 
-## 6. Product Tour — Onboarding
+## 6. Product Tour, Onboarding
 
 <img width="1214" height="728" alt="Image" src="https://github.com/user-attachments/assets/3570e486-85cc-4ae5-9645-50300473d89d" />
 
