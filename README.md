@@ -69,4 +69,5 @@ Création d'un parcours d'onboarding en 3 étapes (Welcome / Your Dashboard / Ac
 ## Auteure
 
 **Mina OUAAZIZ** 
+
 À la recherche de rôles de Customer Success Manager / Customer Care en SaaS, avec plusieurs années d'expérience dans l'accompagnement client en secteur médico-social et auprès d'entreprises du BTP.
